@@ -1,0 +1,15 @@
+{
+    "users" :
+     [
+        {
+            "id" : 1,
+            "name":"Aidar",
+            "number":"780078"
+        },
+        {
+            "id" : 2,
+            "name":"Arsen",
+            "number":"980098"
+        }
+]
+}
